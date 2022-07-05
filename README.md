@@ -1,2 +1,2 @@
 # HackerRank
-Solved Algorithms from HackerRank c c++ sql
+Solved Algorithms from HackerRank C / C++ / SQL
